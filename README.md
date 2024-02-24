@@ -76,3 +76,6 @@ After the tool has finished exporting your Azure resources, run the following co
 
 If the terminal outputs No changes needed, then congratulations!
 Microsoft Article : https://learn.microsoft.com/en-us/azure/developer/terraform/azure-export-for-terraform/export-first-resources?tabs=azure-cli
+<img width="963" alt="aztfexport02" src="https://github.com/gautam4921/aztfexport/assets/45917285/b998e777-98d9-4816-b5ea-af87d1f6d6ce">
+
+
