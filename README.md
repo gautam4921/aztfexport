@@ -4,6 +4,9 @@ Azure Terrafy allows you to easily and quickly import your existing Azure infras
 Create a new directory in which to generate the Terraform code into
 To start using the aztfy tool, we need to install it locally.
 https://github.com/azure/aztfexport/releases   installer URL choose latest 
+![image](https://github.com/gautam4921/aztfexport/assets/45917285/04113c3a-dfb9-495f-9a76-154d73ddd321)
+
+
 Suggestion : Rather Installing it extract it in a folder and put the installer in the folder 
 I Have faced so weired things ....which is given below 
 
