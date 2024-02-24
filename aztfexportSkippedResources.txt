@@ -1,0 +1,6 @@
+Following resources are marked to be skipped:
+
+- /subscriptions/90f4dd64-b8a4-40a8-898f-a777acc25b9a/resourceGroups/az-eastus/providers/Microsoft.Storage/storageAccounts/azeastusdiag/blobServices/default
+- /subscriptions/90f4dd64-b8a4-40a8-898f-a777acc25b9a/resourceGroups/az-eastus/providers/Microsoft.Storage/storageAccounts/azeastusdiag/fileServices/default
+- /subscriptions/90f4dd64-b8a4-40a8-898f-a777acc25b9a/resourceGroups/az-eastus/providers/Microsoft.Storage/storageAccounts/azeastusdiag/queueServices/default
+- /subscriptions/90f4dd64-b8a4-40a8-898f-a777acc25b9a/resourceGroups/az-eastus/providers/Microsoft.Storage/storageAccounts/azeastusdiag/tableServices/default
